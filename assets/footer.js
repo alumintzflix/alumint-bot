@@ -1,0 +1,1 @@
+// JavaScript for 12s timer, 20 visits/device logic
